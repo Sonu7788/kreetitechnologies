@@ -1,0 +1,55 @@
+.outerbox{
+    height: 100vh;
+    
+    
+    background-color: rgb(203, 125, 24);
+
+}
+.innerbox1{
+    background-color: red;
+    margin-top: 0px;
+    height: 100px;
+    width: 100%;
+
+}
+.innerbox2{
+    background-color: aquamarine;
+    width: 95%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.innerbox21{
+
+    background-color: blue;
+    height: 300px;
+    width: 28%;
+
+    
+}
+.innerbox22{
+    background-color: brown;
+    width: 64%;
+    height: 300px;
+    
+}
+.innerbox221{
+
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    
+}
+.innerbox222{
+    background-color: rgba(173, 173, 47, 0.668);
+    height: 100px;
+    width: 100px;
+    margin-top: 100px;
+    margin-left: 800px;
+    
+    
+}
